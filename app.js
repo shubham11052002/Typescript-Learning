@@ -26,6 +26,11 @@
 var userData = {
     name: '12',
     age: 12,
-    mob: 2987482,
 };
 console.log(userData);
+var myName = 'akshay sharma';
+console.log(myName);
+function name1() {
+    console.log('Shubham Sharma');
+}
+name1();
