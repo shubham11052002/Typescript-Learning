@@ -37,11 +37,3 @@
       age:12,
     }
     console.log(userData);
-
-
-    let myName:string = 'akshay sharma';
-    console.log(myName);
-    function name1(){
-      console.log('Shubham Sharma');
-    }
-    name1();

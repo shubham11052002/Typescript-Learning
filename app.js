@@ -1,3 +1,4 @@
+"use strict";
 /*
   function getTotal(numbers:number[]){
   return numbers.reduce((acc,item)=>{
@@ -23,14 +24,10 @@
     }
   }
   printTable(val1);  */
-var userData = {
+Object.defineProperty(exports, "__esModule", { value: true });
+const userData = {
     name: '12',
     age: 12,
 };
 console.log(userData);
-var myName = 'akshay sharma';
-console.log(myName);
-function name1() {
-    console.log('Shubham Sharma');
-}
-name1();
+//# sourceMappingURL=app.js.map
